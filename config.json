@@ -1,11 +1,11 @@
 {
   "uid": "8e65b2f3-6b49-4cfe-a229-cbe767c12cc3",
   "hwid": "154724018377269",
-  "total_clicks": 4.307515382815323e+31,
+  "total_clicks": 7.196232975662931e+31,
   "click_power_level": 260,
   "faster_click_level": 200,
-  "mini_clicker_count": 611,
+  "mini_clicker_count": 671,
   "rebirth_count": 1,
-  "last_save": 1748113015.5562234,
-  "hmac": "153daab1ce05991050722f03f058819ea3a9ef23017af90f60cbcc18ce3f7dca"
+  "last_save": 1748113016.563509,
+  "hmac": "8ad93ccf2ce22283e780547a404a6a21226da11d42f0ea8947a6ab8a2e347b45"
 }
